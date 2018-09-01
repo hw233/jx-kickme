@@ -1,0 +1,36 @@
+Name	Genre	Detail	Image	ObjId	Width	Height	Intro	Price	CanSale	CanRemove	Stack	ShortKey
+HuyÒn Tinh Kho¸ng Th¹ch 	3	0	\spr\item\script\item_xuanjingkuangshi.spr	425	1	1	Lµ 1 trong nh÷ng vËt liÖu quan träng ®Ó kİch ho¹t trang bŞ mµu xanh, kh¶m n¹m, chÕ t¹o Trang bŞ HuyÒn Tinh vµ trang bŞ Hoµng Kim.	2000	1	0	50	0
+HuyÒn ThiÕt Nguyªn Kho¸ng	3	1	\spr\item\script\item_xuantiekuang.spr	425	1	1	Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh hiÖn 1<color> trªn trang bŞ (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	50	0
+Khæng T­íc Nguyªn Th¹ch 	3	2	\spr\item\script\item_kongqueshi.spr	425	1	1	Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 1<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	50	0
+MËt Ng©n Nguyªn Kho¸ng	3	3	\spr\item\script\item_miyinkuang.spr	425	1	1	Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow> thuéc tİnh hiÖn 2<color> trªn trang bŞ (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	50	0
+Phï Dung Nguyªn Th¹ch 	3	4	\spr\item\script\item_furongshi.spr	425	1	1	Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 2<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	50	0
+Chu Sa Nguyªn Kho¸ng	3	5	\spr\item\script\item_zhushakuang.spr	425	1	1	Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh hiÖn 3<color> trªn trang bŞ (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	50	0
+Chung Nhò Nguyªn Th¹ch 	3	6	\spr\item\script\item_zhongrushi.spr	425	1	1	Mét lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ lµm thay ®æi <color=yellow>thuéc tİnh Èn 3<color> trªn trang bŞ cïng Ngò hµnh (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	50	0
+HuyÒn ThiÕt kho¸ng	3	7	\spr\item\script\item_xuantiekuang.spr	425	1	1	<color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ kh¶m lªn Trang bŞ HuyÒn Tinh cïng ngò hµnh ®Ó thay ®æi <color=yellow>thuéc tİnh hiÖn 1<color><enter> (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	0	0
+Khæng T­íc Th¹ch	3	8	\spr\item\script\item_kongqueshi.spr	425	1	1	<color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ kh¶m lªn Trang bŞ HuyÒn Tinh cïng ngò hµnh ®Ó thay ®æi <color=yellow>thuéc tİnh Èn 1<color><enter> (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	0	0
+MËt Ng©n kho¸ng	3	9	\spr\item\script\item_miyinkuang.spr	425	1	1	<color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ kh¶m lªn Trang bŞ HuyÒn Tinh cïng ngò hµnh ®Ó thay ®æi <color=yellow>thuéc tİnh hiÖn 2<color><enter> (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	0	0
+Phï Dung Th¹ch	3	10	\spr\item\script\item_furongshi.spr	425	1	1	Lo¹i <color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ kh¶m lªn Trang bŞ HuyÒn Tinh cïng ngò hµnh ®Ó thay ®æi <color=yellow>thuéc tİnh Èn 2<color><enter> (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	0	0
+Chu Sa kho¸ng	3	11	\spr\item\script\item_zhushakuang.spr	425	1	1	<color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ kh¶m lªn Trang bŞ HuyÒn Tinh cïng ngò hµnh ®Ó thay ®æi <color=yellow>thuéc tİnh hiÖn 3<color><enter> (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	0	0
+Chung Nhò Th¹ch	3	12	\spr\item\script\item_zhongrushi.spr	425	1	1	<color=yellow>Kho¸ng th¹ch cã thuéc tİnh<color>, cã thÓ kh¶m lªn Trang bŞ HuyÒn Tinh cïng ngò hµnh ®Ó thay ®æi <color=yellow> thuéc tİnh Èn 3<color><enter> (NhÊn chuét ph¶i xem chi tiÕt) 	2000	1	0	0	0
+Lam Thñy Tinh	3	13	\spr\item\questkey\baoshi_zhuanxu.spr	333	1	1	Lo¹i Thñy tinh cã thÓ lµm thay ®æi ngò hµnh cña trang bŞ 	2000	1	0	0	0
+Tö Thñy Tinh	3	14	\spr\item\questkey\baoshi_xingtian.spr	333	1	1	Lo¹i Thñy tinh cã thÓ n©ng cÊp trang bŞ.  	2000	1	0	0	0
+Lôc Thñy Tinh	3	15	\spr\item\questkey\baoshi_nvwa.spr	333	1	1	Lo¹i thñy tinh cã thÓ gióp thay ®æi c¸c thuéc tİnh cña trang bŞ 	2000	1	0	0	0
+MËt ®å thÇn bİ 	3	16	\spr\item\questkey\taskobj076.spr	368	2	1	Mét lo¹i vËt phÈm, c«ng n¨ng thÇn bİ.	1	1	0	100	0
+Kim Nguyªn B¶o	3	17	\spr\item\questkey\obj_item_cardg.spr	340	1	1	<color=yellow>Kim Nguyªn B¶o<color><enter>Dïng ®Ó trao ®æi kinh th­¬ng	2000	1	0	0	0
+Tö Tinh Th¹ch	3	18	\spr\item\script\seven_city_war\shenxingsuipian.spr	387	1	1	Dïng ®Ó chÕ t¹o trang bŞ quı hiÕm ë NPC Thî RÌn ThÇn Bİ 164/199 L©m An	0	1	0	200	0
+H¾c Ngäc	3	19	\spr\vng\item\hacngoc.spr	387	1	1	Mét lo¹i ngäc quı hiÕm cã mµu ®en	0	1	0	200	0
+Tinh Hång B¶o Th¹ch	3	20	\spr\item\obj_item_red.spr	333	1	1	Mét viªn b¶o th¹ch thÇn bİ, ng­êi luyÖn vâ cã thÓ dïng ®Ó ®¶ th«ng kinh m¹ch.	2000	1	0	0	0
+TiÒn ®ång	3	21	\spr\item\tongqian.spr	373	1	1	Dïng ®Ó mua nh÷ng vËt phÈm ®Æc thï.	2000	1	0	100	0
+S¸t Thñ LÖnh 	3	22	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	1000	0	0	50	0
+S¸t Thñ LÖnh 	3	23	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	1000	0	0	50	0
+S¸t Thñ LÖnh 	3	24	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	1000	0	0	50	0
+S¸t Thñ LÖnh 	3	25	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	1000	0	0	50	0
+S¸t Thñ LÖnh 	3	26	\spr\item\questkey\taskobj126.spr	336	1	1	PhÇn th­ëng cho nhiÖm vô giÕt Boss <enter>5 c¸i ®ång cÊp ®æi ®­îc 1 S¸t Thñ gi¶n.	1000	0	0	50	0
+S¸t Thñ Gi¶n 	3	27	\spr\item\questkey\taskobj033.spr	336	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	1000	1	0	0	0
+S¸t Thñ Gi¶n 	3	28	\spr\item\questkey\taskobj033.spr	336	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	1000	1	0	0	0
+S¸t Thñ Gi¶n 	3	29	\spr\item\questkey\taskobj033.spr	336	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	1000	1	0	0	0
+S¸t Thñ Gi¶n 	3	30	\spr\item\questkey\taskobj033.spr	336	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	1000	1	0	0	0
+S¸t Thñ Gi¶n 	3	31	\spr\item\questkey\taskobj033.spr	336	1	2	Mang ®Õn gÆp NhiÕp Thİ TrÇn ®Ó nhËn nhiÖm vô ®Æc biÖt.	1000	1	0	0	0
+B¨ng Tµm V« Cùc T¬ 	3	32	\spr\item\questkey\bingcanwujisi.spr	371	1	1	Thiªn s¬n  B¨ng Tµm T¬, s¶n phÈm cùc hiÕm.<enter> cã thÓ dïng ®Ó t¨ng ®¼ng cÊp c¸c lo¹i trang bŞ.	0	1	0	0	0
+Nam Minh Chi Tinh	3	33	\spr\item\questkey\nanmingzhijing.spr	372	1	1	Nh÷ng m¶nh thñy tinh cùc hiÕm, <enter> Cã thÓ lµm gi¶m ®¼ng cÊp trang bŞ.	0	1	0	0	0
+LÖnh bµi Phong L¨ng §é 	3	34	\spr\item\questkey\006.spr	352	1	1	Tİn vËt ®Ó ®i Phong L¨ng §é.	0	1	0	0	0

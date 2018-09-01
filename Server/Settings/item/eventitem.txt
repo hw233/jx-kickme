@@ -1,0 +1,32 @@
+Name	Genre	Detail	Image	ObjId	Width	Height	Intro	Price	CanSale	CanRemove	Stack	ShortKey
+Tói d­îc phÈm	5	0	\spr\item\script\pingzi\200805\chuntiandalibao.spr	387	1	1	NhËn thuèc hç trî t©n thñ.	0	0	0	0	1
+Thiªn Hoµng LÔ Bao	5	1	\spr\item\twzhuanyun\zhuanyunbao_big.spr	448	1	1	1 bé trang bÞ Thiªn Hoµng ®Çy ®ñ.	0	1	0	0	0
+HiÖp Cèt LÔ Bao	5	2	\spr\item\twzhuanyun\zhuanyunbao_big.spr	448	1	1	1 bé trang bÞ HiÖp Cèt ®Çy ®ñ.	0	1	0	0	0
+Qu¶ Huy Hoµng (thÊp) 	5	3	\spr\item\questkey\huihuangzhiguo.spr	380	1	1	¡n vµo sÏ t¨ng gÊp ®«i c«ng lùc	1000	1	0	50	0
+Qu¶ Huy Hoµng (trung) 	5	4	\spr\item\questkey\huihuangzhiguo.spr	380	1	1	¡n vµo sÏ t¨ng gÊp ®«i c«ng lùc	1000	1	0	50	0
+Qu¶ Huy Hoµng (cao) 	5	5	\spr\item\questkey\huihuangzhiguo.spr	380	1	1	¡n vµo sÏ t¨ng gÊp ®«i c«ng lùc	1000	1	0	50	0
+Qu¶ Hoµng Kim	5	6	\spr\item\questkey\huangjinzhiguo.spr	380	1	1	¡n vµo sÏ t¨ng gÊp ®«i c«ng lùc	1000	1	0	50	0
+M· bµi - XÝch thè 	5	7	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>XÝch Thè 	1000	1	0	0	0
+M· bµi - §Ých L« 	5	8	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>§Ých L« 	1000	1	0	0	0
+M· bµi - TuyÖt ¶nh	5	9	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>TuyÖt ¶nh	1000	1	0	0	0
+M· bµi - ¤ V©n §¹p TuyÕt	5	10	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>¤ V©n §¹p TuyÕt	1000	1	0	0	0
+M· bµi - ChiÕu D¹ Ngäc S­ Tö 	5	11	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>ChiÕu D¹ Ngäc S­ Tö 	1000	1	0	0	0
+M· bµi - Phi V©n	5	12	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>Phi V©n	1000	1	0	0	0
+M· bµi - B«n Tiªu	5	13	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>B«n Tiªu	1000	1	0	0	0
+M· bµi - Phiªn Vò 	5	14	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>Phiªn Vò 	1000	1	0	0	0
+M· Bµi - Siªu Quang	5	15	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 <enter><color=green>Siªu Quang	1000	1	0	0	0
+An Bang Ngäc béi b¶o r­¬ng	5	16	\spr\item\script\item_qianbaoxiang.spr	41	1	1	Bªn trong cã 1 c¸i<enter>An Bang §iÒn Hoµng Th¹ch Ngäc béi.	0	1	0	0	0
+An Bang Th­îng giíi b¶o r­¬ng	5	17	\spr\item\script\item_qianbaoxiang.spr	41	1	1	Bªn trong cã 1 c¸i<enter>An Bang Cóc Hoa Th¹ch chØ hoµn.	0	1	0	0	0
+An Bang H¹ giíi b¶o r­¬ng	5	18	\spr\item\script\item_qianbaoxiang.spr	41	1	1	Bªn trong cã 1 c¸i<enter>An Bang Kª HuyÕt Th¹ch giíi chØ.	0	1	0	0	0
+An Bang H¹ng liªn b¶o r­¬ng	5	19	\spr\item\script\item_qianbaoxiang.spr	41	1	1	Bªn trong cã 1 c¸i<enter>An Bang B¨ng Tinh Th¹ch h¹ng liªn.	0	1	0	0	0
+§Þnh Quèc ¤ Sa b¶o r­¬ng	5	20	\spr\item\oldbox\oldbox.spr	41	1	1	Bªn trong cã 1 c¸i<enter>§Þnh Quèc ¤ Sa Ph¸t qu¸n.	0	1	0	0	0
+§Þnh Quèc Thanh Sa b¶o r­¬ng	5	21	\spr\item\oldbox\oldbox.spr	41	1	1	Bªn trong cã 1 c¸i<enter>§Þnh Quèc Thanh Sa tr­êng sam.	0	1	0	0	0
+§Þnh Quèc XÝch Quyªn b¶o r­¬ng	5	22	\spr\item\oldbox\oldbox.spr	41	1	1	Bªn trong cã 1 c¸i<enter>§Þnh Quèc XÝch Quyªn NhuyÔn ngoa.	0	1	0	0	0
+§Þnh Quèc Tö §»ng b¶o r­¬ng	5	23	\spr\item\oldbox\oldbox.spr	41	1	1	Bªn trong cã 1 c¸i<enter>§Þnh Quèc Tö §»ng hé uyÓn.	0	1	0	0	0
+§Þnh Quèc Ng©n Tµm b¶o r­¬ng	5	24	\spr\item\oldbox\oldbox.spr	41	1	1	Bªn trong cã 1 c¸i<enter>§Þnh Quèc Ng©n Tµm yªu ®¸i.	0	1	0	0	0
+Nhu T×nh LÔ Bao	5	25	\spr\item\twzhuanyun\zhuanyunbao_big.spr	448	1	1	1 bé trang bÞ Nhu T×nh ®Çy ®ñ.	0	1	0	0	0
+Hép lÔ vËt v­ît ¶i	5	26	\spr\item\obj_item_giftb.spr	344	1	1	PhÇn th­ëng hoµn thµnh v­ît ¶i. Më ra sÏ nhËn mét b¶o vËt ngÉu nhiªn	100	1	0	0	0
+Tèng Kim B¶o vËt	5	27	\spr\item\script\songjinmibao.spr	41	1	1	PhÇn th­ëng tÝnh n¨ng Tèng Kim, bªn trong chøa ®ùng nh÷ng vËt phÈm quý hiÕm.	0	1	0	0	0
+B¶o R­¬ng Thñy TÆc	5	28	\spr\item\script\shuizeibaoxiang.spr	41	1	1	Thñy TÆc §¹i §Çu LÜnh r¬i ra.	0	1	0	0	0
+ThÎ ®Æt c­îc	5	29	\spr\item\questkey\card_xnk.spr	38	1	1	Dïng ®Ó ®o¸n sè trß ch¬i 'Con sè may m¾n'. Xem kÕt qu¶ t¹i LÔ quan.	100	1	0	0	0
+H¹t Thiªn TuÕ  	5	30	\spr\item\script\jiefang_jieri\201004\qiansuizhong.spr	380	1	1	Trång 1 C©y Thiªn TuÕ ngÉu nhiªn.	0	1	0	0	0

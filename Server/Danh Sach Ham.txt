@@ -1,0 +1,381 @@
+﻿--********************* HAM MO RONG ****************************************--
+	GetDistance(nX,xY,zX,zY)										Tinh khoang cach tu toa do nX/xY den zX/zY
+	GetDistanceFromPlayer(nX,nY)									Tinh khoang cach tu nhan vat den nX/nY
+	CountPlayerInMaps(IdMap)										Dem so nguoi trong map IdMap		
+	MoveTeam(idteam,w,x,y)											Di chuyen team idteam den ban do w toa do x/y
+	TeamInfo(idteam)												Tra ve "Tæ ®éi [M· Sè] : "..idteam..", [Sè ng­êi] : "..teamsize..", [§éi tr­ëng] : "..totruong
+	ChoPhepTanCong(idteam,num)										ChoPhepTanCong(idteam,0/1) Cho team idteam tan cong hoac phi chien dau
+	SetDeathScriptTeam(idteam,script)								Set cho team idteam khi chet chay script
+	SetTaskTempTeam(idteam,taskid,num)								SetTaskTemp(taskid,num) cho toan bo thanh vien trong team co idteam
+	GetTaskTempTeam(idteam,taskid)
+	SetTaskTeam(idteam,taskid,num)
+	GetTaskTeam(idteam,taskid)
+	SetTimerTeam(idteam,timerid,thoigian)							Chay script timerid trong Settings/TimerTask.txt voi thoigian cho cac thanh vien team idteam
+	StopTimerTeam(idteam)
+	SetTempRevPosTeam(idteam,idmap,posx,posy)
+	SetRevPos(idteam,idmap,posx,posy)
+	SayTeam(idteam,loithoai)
+	CaptainTeam(idteam)												Tra ve team cua doi truong
+	SetCurCampTeam(idteam,camp)										Thay doi camp cua toan bo thanh vien team idteam thanh camp
+	ClearTask(idtask,tyle)											Xoa Task, neu tyle = 0 hoac nil thi xoa task co id, neu tyle = 1 thi xoa tasktemp(id)
+----******************************HAM NHAN VAT***************************-------	
+Say
+SayNew
+Talk
+GetTaskTemp
+SetTaskTemp
+AddTaskTemp
+Message
+	
+GetBit
+GetByte
+SetBit(nBit)
+SetByte(nByte)
+Include(szScriptName)
+PutMessage(szMsg)
+AddGlobalNews(szStr)
+AddGlobalNews1(szStr)
+AddGlobalTimeNews(...)
+AddGlobalTimeNews1(...)
+AddGlobalCountNews(szStr, nTime)
+AddGlobalCountNews1(szStr, nTime)
+AddLocalNews(szStr)
+AddLocalTimeNews(szStr, nTime)
+AddLocalCountNews(szStr, nTime)
+	
+AddDanhVong
+GetDanhVong
+AddReBorn
+GetReBorn	
+AddLuck
+GetLuck
+GetNpcIdx
+	
+SetTimer
+StopTimer
+GetRestTime
+GetTimerId
+GetTask
+SetTask
+AddTask
+IsCaptain
+GetTeam
+GetTeamSize
+LeaveTeam
+Msg2Player
+Msg2Team
+Msg2SubWorld
+Msg2World
+Msg2Region
+Msg2GM
+Msg2IP
+str = GetInfo()
+GetIP
+SetPos(x,y)
+GetPos() return x,y,subworldindex
+W,X,Y = GetWorldPos()
+W, X, Y = GetNpcPos(nNpcIndex)
+NewWorld
+AddTrap(szScriptName, nW, nX, nY, nRange)
+AddItem(nItemClass, nDetailType, nParticualrType, nLevel, nSeries, nLuck, nItemLevel..6)
+AddObj(...)
+DelObj(nObjIndex)
+GetObjName(nObjIndex)
+AddQuestKey(ID)
+AddMineItem(ID)	or AddMineItem(ID, nStack)
+AddGoldItem(ID,he)
+DelTaskItem(TaskID)
+DelGoldItem(GoldID)
+DelMineItem(nId) or DelMineItem(nId, nStack)
+HaveTaskItem(Id)
+HaveMineItem(Id)
+HaveGoldItem(Id)
+GetItemCount(TaskItemID)
+GetMineItemCount(MineItemID)
+AddMagic(MagicID, nLevel)
+DelMagic(MagicID)
+HaveMagic(MagicID)
+GetMagicLevel()
+AddMagicPoint(nPoint)
+GetMagicPoint()
+	
+SubWorldID2Idx(SubWorldID)
+	
+	
+AddLeadExp(num exp)
+GetLeadLevel()
+	
+SetFightState(0/1)
+GetFightState() return 0/1
+
+
+AddNpc(...)
+DelNpc(nNpcId)
+SetNpcScript(npcid, duong dan)
+SetRevPos(nId)
+SetTempRevPos(subworldid, x, y ) or SetTempRevPos(id);
+GetCurCamp()
+GetCamp()
+SetCurCamp()
+SetCamp(nCamp)
+RestoreCamp()
+GetFaction()
+SetFaction(Faction Name)
+GetColdR()
+SetColdR(ColdR)
+GetFireR()
+SetFireR(FireR)
+GetLightR()
+SetLightR(LightR)
+GetPoisonR()
+SetPoisonR(PoisonR)
+GetPhyR()
+SetPhyR(nPhyR)
+GetExp()
+AddExp(nExp)
+AddOwnExp(nExp)
+AddSumExp(nExp)
+GetLife()
+RestoreLife()
+GetMana()
+RestoreMana()
+GetStamina()
+RestoreStamina()
+GetDefend
+GetSex() return 0man/1woman
+GetSeries
+SetSeriesSetSeries()
+GetPlayerName()
+GetPlayerIndex
+GetNamePlayerIndex
+GetPlayerAccount
+GetNameAccountIndex
+GetTong()Kiem tra vao bang hay chua tra ve gia tri 0vao/1chua
+GetTongName()Lay ten bang
+GetFigure()
+GetTongMaster()//Lay ten bang chu
+GetTongMoney()//Lay so tien quy
+GetTongCamp()//Lay camp bang hoi
+GetUUID
+GetLeadExp
+GetLeadLevel
+GetLevel
+SetLevel
+GetRestAP
+GetRestSP
+GetLucky
+GetEng
+SetEng
+GetDex
+SetDex
+GetStrg
+SetStrg
+GetVit
+SetVit
+ResetProp
+ResetBaseAttrib
+GetCash
+GetXu
+Pay
+GetBoxMoney
+AddBoxMoney
+DelBoxMoney
+SaveQuickly
+PayXu
+Earn
+EarnXu
+PrePay	
+PrePayXu
+ExeScript(duong dan)chay script voi ham main	
+AttackNpc(NpcDwid)
+KillNpc(NpcDWID)
+KillPlayerKillPlayer()
+Sale(SaleId)
+MarketShop(MarketId)
+UseTownPortal
+ReturnFromPortal
+SetNpcCurCamp
+OpenBox
+OpenResetPass
+OpenStrBox
+AddStation
+AddTermini
+GetStation
+GetStationCount
+	
+GetCityCount
+GetCity
+	
+GetWayPoint
+GetStationName
+GetWayPointName
+GetPrice2Station
+GetPrice2WayPoint
+GetStationPos
+GetWayPointPos
+GetPlayerCount
+GetRank()
+SetRank(id)
+RanhOnName(id)
+GetRankOnName
+GetHieuUng()
+AddHieuUng(id)
+GetExItem()
+SetExItem(id)
+GetExItem()
+SetExItem(id)
+SetPKState(lock or not lock,pkstate)
+GetPKState
+GetNormalPKState
+SetPropState( hide = 1) hide obj
+GetServerName
+	
+
+GetWharfName
+GetWharfCount
+GetWharfPrice
+GetWharf
+GetWharfPos
+GetTerminiFState
+
+
+KickOutPlayer
+KickOutSelf
+PlayerOut
+SPlayerOff
+
+GetSkillId
+SetSkillLevel
+SetChatFlag
+	
+AddNote(szStr)
+
+
+GetMissionV(Vid)
+SetMissionV(Vid, Value)
+GetGlbMissionV
+SetGlbMissionV
+OpenMission(missionid)
+RunMission
+CloseMission(missionid)
+StartMissionTimer(missionid, timerid, time)
+StopMissionTimer
+GetMSRestTime(missionid, timerid)
+GetMSIdxGroup(missionid, playerid);
+	
+AddMSPlayer
+DelMSPlayer
+GetNextPlayer", LuaGetNextPlayer},
+PIdx2MSDIdx(missionid, pidx)
+MSDIdx2PIdx(missionid, dataidx)
+NpcIdx2PIdx
+
+GetMSPlayerCount(missionid, group = 0)
+
+RevivalAllNpc
+	
+SetPMParam
+GetPMParam
+Msg2MSGroup
+Msg2MSAll
+Msg2MSPlayer()
+SetDeathScript(nNpcIndex, szScriptName)
+Death(nNpcIndex)
+
+HideNpc
+IsHideNpc
+SetLogoutRV
+SetCreateTeam
+GetPK()
+SetPK(pkValue)
+
+
+ShowLadder(LadderCount, LadderId1,LadderId2,...)
+
+
+OpenTong(1)
+SetPunish(0/1)
+
+RollbackSkill()
+UpdateSkill()
+
+SetPassword(nPassword)
+GetPassword()
+SetLockStoreBox(0/1)
+CheckLock() return 0/1
+CheckBox(nW, nH) return 0/1
+AddProp(nProp)
+GetProp
+SetBasePoint
+	
+GetExtPoint
+PayExtPoint
+
+SetNpcSeries
+SetNpcName
+GetNpcTreasure
+SetNpcTreasure
+
+SetBoss
+GetBoss
+
+OpenTrembleItem
+AddSkillState
+DelSkillState
+
+SetMask
+ReSetMask
+
+SetDualExp
+SetDualSkill
+
+HaveBaseItem
+DelBaseItem
+	
+Give
+OpenQuest
+OpenDiceGame
+ToPos
+PutMessageNew
+DelIdItem
+GetItemProp
+ChangeInfoItem
+GetInfoItem
+ItemHaveMagic
+ItemHaveOption
+GetIdItem
+SetIsSell
+SetIsTrade
+SetIsDrop
+ThrowItem
+SendChatNormal
+CheckEquiped
+
+OpenCreatPassBox()
+OpenTeamBox()
+OpenUnLockBox()
+OpenNoteBox()
+OpenFriend()
+OpenSkillBox()
+OpenItemBox()
+OpeStatusBox()
+OpenTongManagerBox()
+OpenESCBox()
+
+SetTeamQuest(szScriptName)
+GetIndexPlayerInTeam()
+
+Nếu nNpcIndex <= 0 thì nNpcIndex = nPlayerIndex và rơi tại vị trí nhân vật.
+Nếu nNpcIndex > 0 thì sẽ rơi vật phẩm tại vị trí NPC nNpcIndex đó
+
+DropQuestItem(nNpcIndex, nItemId) || DropQuestItem(nNpcIndex, nItemId, Nam, Thang, Ngay, Gio)
+DropMineItem(nNpcIndex, nItemId, nStackNum) || DropMineItem(nNpcIndex, nItemId, nStackNum, Nam, Thang, Ngay, Gio)
+DropMoney(nNpcIndex, MoneyNumber)
+DropItem(nNpcIndex, nItemClass, nDetailType, nParticualrType, nLevel, nSeries, nLuck, nItemLevel..6)
+DropGoldItem(nNpcIndex, GoldId, Series) || DropGoldItem(nNpcIndex, GoldId, Series, Nam, Thang, Ngay, Gio)
+
+CountWorldPlayer
+IsWorldCombat
+OpenWorldCombat
+RunWorldCombat
+EndWorldCombat

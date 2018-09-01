@@ -1,0 +1,18 @@
+
+-- Script vat pham bi kip duong mon
+Include("\\Script\\library\\worldlibrary.lua");
+
+function useitem(nItemIdx)
+	if (GetFactionEx() ~= "DM") then
+		Msg2Player("B¹n xem qua mËt tÞch nhiÒu lÇn nh­ng kh«ng hiÓu g×!")
+	return end
+	if(GetLevel() < 80) then
+		Msg2Player("§¼ng cÊp ch­a ®¹t 80 kh«ng thÓ lÜnh héi!")
+	return end
+	if(GetMagicLevel(302) > 0) then
+		Msg2Player("B¹n ®· tõng häc vâ c«ng nµy råi!")
+	return end
+	RemoveItem(nItemIdx, 1)
+	AddMagic(302,1)
+	Msg2Player("LÜnh héi ®­îc kü n¨ng B¹o Vò Lª Hoa!")
+end;
